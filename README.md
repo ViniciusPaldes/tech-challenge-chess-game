@@ -1,10 +1,10 @@
-# Chess Game - Tech Challenge - Vinícius Paldês
+# Tic Tac Toe Game - Tech Challenge - Vinícius Paldês
 
 Hello, the goal of this app is to present my skills using React JS. This test was made using CoderByte, it was accomplished after around 2 hours.
 
 ## Requirement
 
-Given a created UI for a Chess Game implement the logic.
+Given a created UI for a Tic Tac Toe Game, implement the logic:
 
 - Player selection
 - Player swipe
@@ -14,7 +14,7 @@ Given a created UI for a Chess Game implement the logic.
 
 ##  Play at
 
-https://vini-chess-game.netlify.app/
+https://vini-tictactoe.netlify.app
 
 ## Considerations
 
