@@ -157,7 +157,7 @@ function Board() {
   useEffect(() => {
    // console.log("GameBoard Updated: ", gameBoard);
     winnerCheck()
-  }, [gameBoard]);
+  }, [gameBoard, winnerCheck]);
   
   function getDataForPosition(position) {
     const positionalData = gameBoard[position];
