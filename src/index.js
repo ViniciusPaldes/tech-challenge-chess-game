@@ -171,7 +171,7 @@ function Board() {
       setGameBoard(gameBoard => {
         return gameBoard.map(square => {
           //console.log(`Square.position ${square.position} position: ${position} result ${square.position == position}`)
-          const updatedTile = square.position == position ? 
+          const updatedTile = square.position === position ? 
             {
             ...square, 
             used: true, 
